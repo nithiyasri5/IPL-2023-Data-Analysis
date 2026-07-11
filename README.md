@@ -98,20 +98,6 @@ IPL-2023-Data-Analysis/
 │── iplauction2023.csv
 │── README.md
 ```
-## 📸 Project Screenshots
-
-### Dataset Preview
-![Dataset](Images/dataset.png)
-
-### Team-wise Expenditure
-![Team Expenditure](Images/team_expenditure.png)
-
-### Role Distribution
-![Role Distribution](Images/role_distribution.png)
-
-### Correlation Heatmap
-![Heatmap](Images/heatmap.png)
----
 
 ## ⭐ Future Improvements
 
